@@ -19,6 +19,6 @@ Select a letter to figure out a hidden word in a set amount of chances
 
 ### Links
 
-- Live Site URL: [Link to live site]()
+- Live Site URL: [Link to live site](https://z3shan7.github.io/Hangman/)
 
 
